@@ -68,6 +68,7 @@ Enjoys nature hikes and running.
      height="90"
      style="float: left; margin-right: 10px;" /> **Gisell Lorena Osorio**. \
 PhD candidate, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca). \
+Graduated from the Ensenada Center for Scientific Research and Higher Education (CICESE, Mexico) with a master of science in optics.
 Enjoys performing arts and nature.
 <br><br>
 
